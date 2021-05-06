@@ -2,7 +2,7 @@
 
 ## Eu me chamo Anderson Bruno, desde pequeno sou apaixonado por tecnologia. Me graduei em Gestão Financeira, mas agora decidi me jogar de vez na carreira Tech. Atualmente cursando Análise e Desenvolvimento De Sistemas.
 
-<p align='center'>
+<p align='left'>
     <a href="https://www.linkedin.com/in/anderama/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a
@@ -21,7 +21,7 @@
 
 ## Skills
 
-<p align='center'>
+<p align='left'>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CCS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
