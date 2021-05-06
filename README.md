@@ -3,10 +3,10 @@
 ## Eu me chamo Anderson Bruno, desde pequeno sou apaixonado por tecnologia. Me graduei em Gestão Financeira, mas agora decidi me jogar de vez na carreira Tech. Atualmente cursando Análise e Desenvolvimento De Sistemas.
 
 <p align='left'>
-    <a href="https://www.linkedin.com/in/anderama/">
+    <a target=”_blank” href="https://www.linkedin.com/in/anderama/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a
-    <a href="https://instagram.com/anderamaa">
+    <a target=”_blank” href="https://instagram.com/anderamaa">
     ​    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
 </p>
