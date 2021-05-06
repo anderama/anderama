@@ -4,16 +4,15 @@
 
 <p align='center'>
     <a href="https://www.linkedin.com/in/anderama/">
-
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    
-      </a
-    
+    </a
+</p>
+<p align='center'>
     <a href="https://instagram.com/anderamaa">
-    
     ​    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-    
      </a>
+</p>
+        
 ## Quer saber mais sobre mim?
 
 - No momento, estou focado totalmente em aprender a base da stack frontend (HTML, CSS e JavaScript). Meu objetivo é me especializar nessa stack, e me tornar também um UI Designer.
