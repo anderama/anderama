@@ -29,3 +29,7 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 </p>
+
+<p align='left'>
+    [![GitHub Status](https://github-readme-stats.vercel.app/api?username=anderama&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</p>
