@@ -10,6 +10,9 @@
     <a href="https://instagram.com/anderamaa" target=”_blank”>
     ​   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
+    <a href="https://api.whatsapp.com/send?phone=5583999220559" target=”_blank”>
+    ​   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
 </p>
         
 ## Quer saber mais sobre mim?
