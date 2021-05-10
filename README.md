@@ -35,5 +35,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 </p>
+</br>
 
 ![Anderama's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderama&show_icons=true&theme=react)
